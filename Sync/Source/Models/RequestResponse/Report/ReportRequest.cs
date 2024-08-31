@@ -3,9 +3,8 @@
 // Copyright © 2024
 // </copyright>
 //-----------------------------------------------------------------------------
-namespace TimeCog.Sync.Models
+namespace Codev.TimeCog.Sync.Models
 {
-    using Codev.Core.Common.Base;
     using Codev.Core.Common.Model;
     using NodaTime;
 
