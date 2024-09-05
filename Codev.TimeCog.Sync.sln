@@ -6,6 +6,9 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeCog.Sync", "Sync\TimeCog.Sync.csproj", "{B2780CD8-D47E-447F-BFFB-1CC953909766}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Files", "Solution Files", "{F5E9B81D-8A9A-4FC9-84A8-F3265F4E17B9}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{12A8B6C8-D3CB-489A-8137-308A39F67FDE}"
 	ProjectSection(SolutionItems) = preProject

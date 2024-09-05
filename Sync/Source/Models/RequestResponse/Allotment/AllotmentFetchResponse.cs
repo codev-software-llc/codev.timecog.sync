@@ -5,6 +5,8 @@
 //-----------------------------------------------------------------------------
 namespace Codev.TimeCog.Sync.Models
 {
+    using System.Collections.Generic;
+
     ///------------------------------------------------------------------------
     /// <summary>
     /// This is the response from an allotment fetch.
