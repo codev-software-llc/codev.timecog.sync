@@ -5,7 +5,7 @@
 //-----------------------------------------------------------------------------
 namespace Codev.TimeCog.Sync.Models
 {
-    using Codev.Core.Common.Base;
+    using Codev.Core.Base;
 
     ///------------------------------------------------------------------------
     /// <summary>

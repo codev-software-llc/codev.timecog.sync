@@ -7,7 +7,7 @@ namespace Codev.TimeCog.Sync.Models
 {
     using System;
     using System.Collections.Generic;
-    using Codev.Core.Common.Model;
+    using Codev.Core.Model;
 
     ///------------------------------------------------------------------------
     /// <summary>
