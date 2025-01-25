@@ -1,6 +1,6 @@
 ﻿//-----------------------------------------------------------------------------
 // <copyright file="AllotmentFetchResponse.cs" company="Codev Software, LLC">
-// Copyright © 2024
+// Copyright © 2025
 // </copyright>
 //-----------------------------------------------------------------------------
 namespace Codev.TimeCog.Sync.Models
