@@ -1,6 +1,6 @@
 ﻿//-----------------------------------------------------------------------------
 // <copyright file="DestinationData.cs" company="Codev Software, LLC">
-// Copyright © 2025
+// Copyright © 2026
 // </copyright>
 //-----------------------------------------------------------------------------
 namespace Codev.TimeCog.Sync.Models

@@ -1,0 +1,17 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Dev" />
+    <BuildType Name="Live" />
+  </Configurations>
+  <Folder Name="/Solution Files/">
+    <File Path=".editorconfig" />
+  </Folder>
+  <Folder Name="/Solution Files/Documents/">
+    <File Path="LICENSE" />
+  </Folder>
+  <Folder Name="/Solution Files/Scripts/">
+    <File Path="Bld/Build.bat" />
+    <File Path="Bld/Clean.bat" />
+  </Folder>
+  <Project Path="Sync/TimeCog.Sync.csproj" />
+</Solution>
