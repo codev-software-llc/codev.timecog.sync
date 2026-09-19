@@ -15,8 +15,8 @@
 	</PropertyGroup>
 	
   <ItemGroup>
-    <PackageReference Include="Codev.Core" Version="9.3.5" />
-    <PackageReference Include="NodaTime" Version="3.3.2" />
+    <PackageReference Include="Codev.Core" Version="9.3.6" />
+    <PackageReference Include="NodaTime" Version="3.3.4" />
   </ItemGroup>
 
 </Project>
