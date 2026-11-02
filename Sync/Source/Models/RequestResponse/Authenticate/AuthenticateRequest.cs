@@ -23,7 +23,8 @@ namespace Codev.TimeCog.Sync.Models
         ///--------------------------------------------------------------------
         public AuthenticateRequest()
         {
-            this.Address = String.Empty;
+            this.Address  = String.Empty;
+            this.Password = String.Empty;
         }
         #endregion
 
@@ -41,6 +42,14 @@ namespace Codev.TimeCog.Sync.Models
         /// </summary>
         ///--------------------------------------------------------------------
         public String Address { get; set; }
+
+
+        ///--------------------------------------------------------------------
+        /// <summary>
+        /// Get or set the password.
+        /// </summary>
+        ///--------------------------------------------------------------------
+        public String Password { get; set; }
         #endregion
     }
 }
